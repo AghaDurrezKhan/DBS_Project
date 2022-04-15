@@ -18,4 +18,11 @@
 
 
 
-# * Output
+# * Features
+Stock to be bought will be proportional to product sold:  e.g best selling product will have a greater total stock
+![This is an image](https://github.com/MERC543213/DBS_Project/blob/main/Output/Feature%20(1).jpeg)
+Similar Item in search
+![This is an image](https://github.com/MERC543213/DBS_Project/blob/main/Output/Feature%20(2).jpeg)
+Reminder for fill the stock if stock is low
+![This is an image](https://github.com/MERC543213/DBS_Project/blob/main/Output/Feature%20(3).jpeg)
+
