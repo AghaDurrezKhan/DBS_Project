@@ -1,8 +1,12 @@
 # Pharmacy_Desktop_Application
 3rd Semester Project comprises of Java and MySQL for Backend and little bit GUI (Swing Framework) also.
 
-# https://github.com/20sw084
-
+# Team Members
+ https://github.com/farhannaliarain   :   20SW072
+ https://github.com/MERC543213  :   20SW075
+ https://github.com/20sw106   :  20SW106
+ https://github.com/20sw084   :  20SW084
+ 
 # 1. MySQL WorkBench View
 ![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/e378db15595ad74308d83ef5d88b38088da4667b/MySQL%20View.PNG)
 
@@ -15,26 +19,3 @@
 
 
 # * Output
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_1.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_2.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_3.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_4.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_5.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_6.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_7.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_8.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_9.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_10.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_11.PNG)
-
-![This is an image](https://github.com/20sw084/Pharmacy_Desktop_Application/blob/12e96fb7a8627b3ff2db7a5d9a6b22cf0d64d8d2/Output_12.PNG)
